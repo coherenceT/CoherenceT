@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Coherence Mlambo 👋
 
-<!--
-**coherenceT/CoherenceT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Application Developer | Web & Mobile Developer
 
-Here are some ideas to get you started:
+I'm an Application Development student at Emeris with an interest in building practical, user-friendly digital solutions. I work on web applications, mobile apps and projects that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also run **Mlambo I.T. Solutions**, where I work on digital solutions for businesses.
+
+### 🛠️ Technologies & Tools
+
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React Native
+- **Backend & Databases:** PHP, MySQL
+- **Mobile Development:** Kotlin, Android Studio, Expo
+- **Tools:** Git, GitHub, VS Code
+
+### 🚀 What I'm Working On
+
+- Building and improving web applications
+- Developing Android and cross-platform mobile apps
+- Creating digital solutions for businesses
+- Expanding my software development portfolio
+
+### 🤝 Connect With Me
+
+- **GitHub:** [@coherenceT](https://github.com/coherenceT)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/tasimba-mlambo-1852502a2)
+- **Business:** [Mlambo I.T. Solutions](https://mlamboitsolutions.netlify.app/)
+
+I'm always interested in learning, collaborating and building useful software.
